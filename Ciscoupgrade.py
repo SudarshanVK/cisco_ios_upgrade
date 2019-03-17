@@ -174,7 +174,7 @@ def main():
 
     endtime = datetime.datetime.now()
     totaltime = endtime - starttime
-    print ("Total transfer time is = {}".format(totaltime))
+    print ("Total execution time is = {}".format(totaltime))
 
 
 main()
