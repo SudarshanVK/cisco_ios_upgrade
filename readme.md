@@ -6,7 +6,7 @@ Currently supports  Cisco 800, 1900, 2900 series routers.
 
 ## Getting Started
 
-Refer to the [requirements.txt]() file for all software and ansible libraries required to run this playbook
+Refer to the [requirements.txt](https://gitlab.com/Sudarshan_K/cisco-ios-upgrade/raw/master/requirements.txt) file for all software libraries required to run this playbook
 
 
 ### Prerequisites 
