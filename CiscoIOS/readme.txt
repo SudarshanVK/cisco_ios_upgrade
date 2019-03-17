@@ -1,0 +1,1 @@
+This folder needs to contain the safe harbour .bin files for Cisco 800, Cisco 1900 and Cisco 2901.
